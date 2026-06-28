@@ -165,7 +165,7 @@ h1 {
 }
 
 .name {
-    color: #3d655f;
+    color: rgba(17, 16, 16, 0.801);
     font-size: clamp(1.25rem, 3vw, 1.65rem);
     font-weight: 800;
     letter-spacing: 0.06em;
@@ -190,7 +190,7 @@ h2 {
 
 .highlight {
     margin-top: 8px;
-    color: #b84956;
+    color: rgba(17, 16, 16, 0.801);
     font-weight: 800;
 }
 
