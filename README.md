@@ -1,2 +1,2 @@
 # Invitation
-Carte d'invitation pour un anniverssaire
+Carte d'invitation pour un anniversaire
